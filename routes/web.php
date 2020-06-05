@@ -20,5 +20,3 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/user', 'HomeController@index')->name('user');
-
-Route::get('/shop', 'HomeController@shop')->name('shop');

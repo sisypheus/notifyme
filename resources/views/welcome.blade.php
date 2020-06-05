@@ -80,8 +80,8 @@
                 <div class="title m-b-md">
                     Not!fy me!
                 </div>
-                <div id="shop">
-                    <a href="{{ route('shop') }}">Shop</a>
+                <div id="instruction">
+                    To get started, create an account or connect to see your list of products
                 </div>
             </div>
         </div>
